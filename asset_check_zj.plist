@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://115.239.138.168:8801/apps/ac/image.57x57.png</string>
+					<string>https://gitee.com/mjb1987/apps/raw/master/image.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://115.239.138.168:8801/apps/ac/image.512x512.png</string>
+					<string>https://gitee.com/mjb1987/apps/raw/master/image.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
