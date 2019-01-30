@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://220.176.202.205:8088/zhdjC/web/app/zhdj_v4.ipa</string>
+                    <string>http://220.176.202.205:8088/zhdjC/app/zhdj_v4.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>http://220.176.202.205:8088/zhdjC/web/image.57x57.png</string>
+                    <string>http://220.176.202.205:8088/zhdjC/image.57x57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>http://220.176.202.205:8088/zhdjC/web/image.512x512.png</string>
+                    <string>http://220.176.202.205:8088/zhdjC/image.512x512.png</string>
                 </dict>
             </array>
             <key>metadata</key>
