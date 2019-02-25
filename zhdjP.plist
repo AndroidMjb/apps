@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://220.176.202.205:8088/zhdjC/app/zhdj_v4.ipa</string>
+                    <string>http://220.176.202.205:8088/zhdjC/app/zhdj_v5.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -31,7 +31,7 @@
                 <key>bundle-identifier</key>
                 <string>com.ccssoft.zhdj</string>
                 <key>bundle-version</key>
-                <string>1.4</string>
+                <string>1.5</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
